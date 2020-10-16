@@ -1,0 +1,9 @@
+Sample	type	condition
+RL_1	-	ROS_LOW
+RL_2	-	ROS_LOW
+RL_3	-	ROS_LOW
+RL_4	-	ROS_LOW
+RH_1	-	ROS_high
+RH_2	-	ROS_high
+RH_3	-	ROS_high
+RH_4	-	ROS_high
